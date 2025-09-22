@@ -42,10 +42,10 @@ export default function Home() {
               Step Into Your Dream Space.
             </h3>
             <p className="lead mb-4">
-              Discover prime plots designed to turn your vision into reality.
+              {`Discover prime plots designed to turn your vision into reality.
               Whether you're looking to build your dream home or invest for the
               future, our carefully selected spaces provide the perfect
-              foundation for your aspirations.
+              foundation for your aspirations.`}
             </p>
 
             <Link href="/menu" className="btn btn-warning px-4 py-2">

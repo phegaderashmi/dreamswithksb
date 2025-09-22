@@ -76,7 +76,7 @@ export default function ReviewSection() {
                       color: "#34495e",
                     }}
                   >
-                    "{review.text}"
+                    {`"${review.text}"`}
                   </p>
 
                   {/* Reviewer Image */}
